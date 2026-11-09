@@ -49,7 +49,7 @@ Tables owned by extensions (for example PostGIS's `spatial_ref_sys`) are skipped
 Turning RLS on is the easy part. Doing it without breaking your app is the hard part. Turn it on with no rules and your own users see an empty app. Use a common AI-written rule and every signed-in user can read every row.
 
 - **Free:** the full Hole #1 fix pack: the 2-minute test, 4 SQL files (find, lock, add the right rules, prove it), prompts for Lovable and Bolt, an agent skill for Claude Code and Cursor, and the mistakes to avoid. [Get it on Whop](https://whop.com/whop-7a9a/free-hole-1-supabase-rls-fix-pack/).
-- **$19.99:** the Launch-Ready Kit covers 4 holes: database rules, API keys in the browser, the Supabase master key, and users making themselves admin. You get the test, the fix and the proof for each, with copy-paste SQL, prompts and agent skills. [See the kit](https://whop.com/whop-7a9a/launch-ready-kit-the-4-holes/).
+- **$19.99:** the Launch-Ready Kit covers 4 holes: database rules, API keys in the browser, the Supabase master key, and users making themselves admin. You get the test, the fix and the proof for each, with copy-paste SQL, prompts and agent skills. [See the kit](https://whop.com/whop-7a9a/products/launch-ready-kit-the-4-holes/).
 
 The `Hole #2` / `Hole #3` labels in the scanner's output refer to chapters of that kit. You don't need the kit to act on a result: roll the key, then move it server-side.
 
